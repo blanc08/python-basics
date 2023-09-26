@@ -1,6 +1,6 @@
 # string
-variable_string = "string"
-print(variable_string)
+tulisan = "ini string"
+print(tulisan)
 
 # integer
 variable_int = 1

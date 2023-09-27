@@ -1,0 +1,1 @@
+# gunakan perulangan dan kondisi

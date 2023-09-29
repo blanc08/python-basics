@@ -1,6 +1,3 @@
-from copy import copy, deepcopy
-
-
 data_satu = [1, 2]
 data_dua = [3, 4]
 

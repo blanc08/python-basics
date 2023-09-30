@@ -42,9 +42,9 @@ if __name__ == "__main__":
             case 2:
                 crud.create_console()
             case 3:
-                print("3")
+                crud.update_console()
             case 4:
-                print("4")
+                crud.delete_console()
 
         print("=========================")
 
